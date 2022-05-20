@@ -1,7 +1,7 @@
 # Hedgie's Projects
 
 - Welcome to my website! 
-![Hedgiepog]([https://i.ibb.co/hmLHrzV/2022-01-07-0mc-Kleki.png](https://i.ibb.co/TmfYzHF/919297622244745227.png))
+![Hedgiepog](https://i.ibb.co/hmLHrzV/2022-01-07-0mc-Kleki.png)
 
 ## My projects:
 - [MC Printer](https://dsc.gg/hedgielab)
