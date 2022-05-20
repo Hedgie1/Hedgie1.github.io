@@ -1,7 +1,7 @@
 # Hedgie's Projects
 
-- Welcome to my website! 
 ![Hedgiepog](https://i.ibb.co/TmfYzHF/919297622244745227.png)
+- Welcome to my website! You can find my important links here. 
 
 ## My projects:
 - [MC Printer](https://dsc.gg/hedgielab)
@@ -14,5 +14,3 @@
 - [Discord Server](https://dsc.gg/hedgielab)
 - [Twitter](https://twitter.com/HedgieDev)
 - [GitHub](https://github.com/Hedgie1)
-
- #### Thanks for reading!
