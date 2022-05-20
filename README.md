@@ -1,6 +1,9 @@
 # Hedgie's Projects
 
-![Hedgiepog](https://i.ibb.co/TmfYzHF/919297622244745227.png)
+![Hedgie1](https://i.ibb.co/TmfYzHF/919297622244745227.png)
+![Hedgie2](https://i.ibb.co/YXtj6D7/919297653160968192-1.png)
+![Hedgie3](https://i.ibb.co/Hx3xjhm/919297713659600996.png)
+![Hedgie4](https://i.ibb.co/nPhmqng/919308040480645120.png)
 - Welcome to my website! You can find my important links here. 
 
 ## My projects:
