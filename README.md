@@ -17,3 +17,4 @@
 - [Discord Server](https://dsc.gg/hedgielab)
 - [Twitter](https://twitter.com/HedgieDev)
 - [GitHub](https://github.com/Hedgie1)
+- [Twitch](https://www.twitch.tv/hedgiedev)
