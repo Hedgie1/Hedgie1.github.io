@@ -7,7 +7,7 @@
 - Welcome to my website! You can find my important links here. 
 
 ## My projects:
-- [MC Printer](https://dsc.gg/hedgielab)
+- [MC Printer](https://www.twitch.tv/hedgiedev)
 - [Talking Ben Discord Bot](https://top.gg/bot/952172236683493426)
 - [Jumbo Minecraft Robot](https://github.com/Hedgie1/jumbo) 
 - [Talking Ben Minecraft Mod](https://www.curseforge.com/minecraft/mc-mods/talking-ben-mod) 
@@ -18,3 +18,4 @@
 - [Twitter](https://twitter.com/HedgieDev)
 - [GitHub](https://github.com/Hedgie1)
 - [Twitch](https://www.twitch.tv/hedgiedev)
+- [Youtube](https://www.youtube.com/channel/UC8cjy8r6Zz7hsw_FmPtkh_A)
