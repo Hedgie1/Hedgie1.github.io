@@ -14,8 +14,11 @@
 
 ## Where can you find me:
 - Discord - Hedgie#2530
-- [Discord Server](https://dsc.gg/hedgielab)
 - [Twitter](https://twitter.com/HedgieDev)
 - [GitHub](https://github.com/Hedgie1)
 - [Twitch](https://www.twitch.tv/hedgiedev)
 - [Youtube](https://www.youtube.com/channel/UC8cjy8r6Zz7hsw_FmPtkh_A)
+
+## Discord servers:
+- [Hedgie's Lab](https://dsc.gg/hedgielab) (My public server)
+- [4D Miner](https://discord.gg/4dminer) (Moderator)
